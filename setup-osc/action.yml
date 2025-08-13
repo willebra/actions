@@ -12,7 +12,7 @@ inputs:
     description: 'The URL to request a token for the ORT Server instance'
     required: false
   client-id:
-    description: 'The client ID to authenticate with the ORT Server instance'
+    description: 'The client ID of the ORT Server instance to authenticate with the instance. Default is ort-server'
     required: false
   username:
     description: 'The username to authenticate with the ORT Server instance'
